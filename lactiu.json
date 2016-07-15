@@ -1,0 +1,10 @@
+{
+  "response_type": "in_channel",
+  "text": "<https://drive.google.com/file/d/0B1rcnm_A-u9HVVktdHdQbjh4ekU/view|Menú de el día>",
+  "attachments": [
+    {
+      "fallback": "Menu de el día.",
+      "image_url": "http://www.lactiu.com/material/MENU%20ACTIU.png",
+    }
+  ]
+}
